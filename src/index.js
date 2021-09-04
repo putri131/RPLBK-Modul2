@@ -14,7 +14,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
     <CardList 
-    name="Putri R" 
+    name="Putri Ro" 
     nim="21120118120026" 
     kelompok="26" 
     isNameBold 
